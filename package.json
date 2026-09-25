@@ -1,0 +1,9 @@
+{
+  "name": "content-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Telegram notes -> scored -> news angle -> LinkedIn draft in your voice -> you approve.",
+  "engines": { "node": ">=18" },
+  "scripts": { "test": "node tests/mock-run.mjs" }
+}
