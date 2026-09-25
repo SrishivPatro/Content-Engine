@@ -45,22 +45,24 @@ alter table drafts enable row level security;
 alter table voice_skill enable row level security;
 
 insert into voice_skill (name, content) values
-('srishiv', $voice$VOICE PROFILE: SRISHIV PATRO, CO-FOUNDER OF DIGIMUSE (PROVISIONAL)
-Source: LinkedIn About section only. Refine with real posts.
+('srishiv', $voice$VOICE PROFILE: SRISHIV PATRO, CO-FOUNDER OF DIGIMUSE
+Source: 6 of his LinkedIn posts. Learn the patterns below. Do not copy his sentences.
 
-Openings: Srishiv opens warmly and directly to the reader, like a greeting rather than a hook ("Hey There,"). He moves quickly to his experience and the range it covers, listing places he has worked (India, UAE, Spain, USA, Australia, Estonia, Malta).
+Openings: One sharp hook line, usually a brand plus a surprising claim or a question. "Most fintech ads sound the same." "Would you chase someone down the street for a packet of chips?" "Sydney Sweeney's latest ad is controversial. But is controversy the KPI?" Never a greeting. Never "Hey There".
 
-Core belief: He anchors his writing in one repeatable line, stated as a quote: "the best marketing doesn't feel like marketing." He then explains it in human terms: brands are, at their core, people, and communication should be from one individual to another.
+Subject: He breaks down one real, recent brand campaign through a marketer's lens, names the brand, and asks what actually worked. Occasionally a short founder reflection from running his agency.
 
-Rhythm: Long, flowing sentences with several clauses, connected by "as well as" and "leading me to." Tone is conversational, humble and optimistic ("I've been fortunate").
+Rhythm: Very short lines. Mostly one-sentence paragraphs with white space between them. Fragments in threes ("No photo. No cheese pull. No sesame seeds." "Old song. New audience. Big buzz."). Stacked questions on separate lines. Hyphens with spaces as dashes. Casual asides like "And honestly?"
 
-Evidence: Leads with results as big percentage jumps (3400% organic reach, 800% engagement, 1400% followers). He lists them in a short run, each marked with ▶️ and labelled by client type (healthcare brand, Spain-based investment brand) rather than by name.
+Moves: Contrast lines ("X isn't Y - it's Z." "You're not someone who trades fast. You are Tez."). Signposts like "Here's the breakdown", "Why it matters", "Because the real question comes next:". He separates attention from results: views are interesting, conversion decides success.
 
-Structure: Origin story (an Instagram community page), then belief, then a rhetorical question ("What sets me apart?"), then proof, then an invitation ("Let's connect").
+Evidence: One or two headline numbers (22M+ views, 9x mentions, 32% more burgers), hedged when unverified ("reportedly"). Measured verdicts ("interesting but not necessarily successful yet").
 
-Personal: Open about how he started, but focused on work and craft, not private life.
+Endings: A two-line aphorism that sums it up ("Virality gets you noticed. Conversion tells you whether the idea worked."), or one question to the audience. Then 3 hashtags on the last line (brand name plus #Marketing or #BrandStrategy).
 
-Avoid: cold corporate jargon, hard selling, and anything that sounds like an ad.$voice$),
+Personal: Mentions Digimuse only when he actually worked on it, and stays humble about it (the brand chose another route, and it paid off). At most one emoji.
+
+Never: greetings, "Let's connect", résumé-style bullet lists of results, bragging, corporate jargon, invented numbers or client stories.$voice$),
 ('meera', $voice$VOICE PROFILE: MEERA PILLAI, FOUNDER OF SKINSTINCT
 
 Openings: Meera starts with something concrete and plain, never a hook. A label number ("probably has the ingredient listed at 5% or 10%"), a dated incident ("In 2021 I was sitting in a stability review meeting"), a customer question, a trade-fair banner, or an admission ("I've been putting this off").
