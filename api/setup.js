@@ -1,7 +1,7 @@
 // Visit https://<your-project>.vercel.app/api/setup?key=<WEBHOOK_SECRET> once after deploying.
 // It tells Telegram to send your channel's messages to /api/webhook. Replaces the manual setWebhook URL.
-import { config } from "../lib/config.js";
-import { setWebhook, getWebhookInfo } from "../lib/telegram.js";
+import { config } from "../config.js";
+import { setWebhook, getWebhookInfo } from "../telegram.js";
 
 export default async function handler(req, res) {
   if (!config.webhookSecret) return res.status(500).json({ ok: false, error: "Set WEBHOOK_SECRET in Vercel first." });
