@@ -1,5 +1,5 @@
-import { config, dbEnabled } from "../lib/config.js";
-import { handleUpdate } from "../lib/pipeline.js";
+import { config, dbEnabled } from "../config.js";
+import { handleUpdate } from "../pipeline.js";
 
 export default async function handler(req, res) {
   if (req.method === "GET") {
